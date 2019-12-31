@@ -12,11 +12,13 @@ header h1 {
     background-color: #9DB2A4;
     padding-top: 10px;
     padding-bottom: 10px;
+    color: white;
 }
 
 header p {
     padding-left: 20vw;
     padding-right: 20vw;
+    color: #0A2239;
 }
 
 footer {
