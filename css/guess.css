@@ -1,11 +1,11 @@
 body {
     font-family: 'Noto Sans TC', sans-serif;
     background-color: #DAE6E8;
+    color: #0A2239;
 }
 
 header {
     text-align: center;
-    color: #0A2239;
 }
 
 header h1 {
