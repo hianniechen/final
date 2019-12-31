@@ -31,7 +31,8 @@ footer {
 }
 
 button{
-color: #0A2239;
+    color: #0A2239;
+    border: 1.5px solid #0A2239;
 }
 
 .btn-circle.btn-xl {
@@ -41,7 +42,7 @@ color: #0A2239;
     border-radius: 35px;
     font-size: 24px;
     line-height: 1;
-    border: 1.5px solid white;
+    border: 1.5px solid #0A2239;
     background-color: #EFDEC6;
     color: #0A2239;
 }
